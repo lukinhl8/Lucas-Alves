@@ -1,7 +1,11 @@
 <div align"center">
 
 # 💫 About Me:
-Estou trabalhando atualmente em back-end<br>Estou procurando colaborar em desenvolvimento de sistema de baixo custo para auxiliar na produção e no agro<br>Estou procurando ajuda com o pessoal interno realizando networking para poder crescer mais<br>Estou aprendendo muito no momento como funciona a questão de desenvolvimento de sistemas e como funciona como e feito e como fazer o mesmo.<br>Pergunte-me 4 fatos curiosos sou uma pessoa dedicada estudiosa e busco sempre alavancar meus objetivos.
+Estou trabalhando atualmente em back-end<br>Estou procurando colaborar em desenvolvimento de sistema de baixo custo para auxiliar na produção e no agro<br>Estou procurando ajuda com o pessoal interno realizando networking para poder crescer mais<br>Estou aprendendo muito no momento como funciona a questão de desenvolvimento de sistemas e como funciona como e feito e como fazer o mesmo.<br>Pergunte-me 4 fatos curiosos 
+sou muito dedicado 
+estudioso
+busco sempre alavancar como um profissional
+e busco alcançar todos meus objetivos.
 
 
 ## 🌐 Socials:
